@@ -1,6 +1,12 @@
 ---
 hub: "cdcepi/FluSight-forecast-hub/"
-title: "Examples of a Lost World"
+title: "Zhian's Example"
 pages:
-  - "about.md"
+  - icon: "people-fill"
+    href: "about.md"
+html:
+  theme: 
+    light: "litera"
+    dark: "quartz"
+  css: null
 
